@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/datalastic",
   "title": "Datalastic",
   "description": "Datalastic MCP — live AIS vessel positions (datalastic.com)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/datalastic",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-datalastic",
